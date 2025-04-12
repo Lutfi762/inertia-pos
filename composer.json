@@ -6,7 +6,8 @@
     "license": "MIT",
     "require": {
         "php": "^8.0.2",
-        "barryvdh/laravel-dompdf": "1.0.0",
+        "barryvdh/laravel-dompdf": "2.0",
+        "dompdf/dompdf": "2.0",
         "guzzlehttp/guzzle": "^7.2",
         "inertiajs/inertia-laravel": "0.5.4",
         "laravel/fortify": "1.11",
@@ -22,7 +23,7 @@
         "laravel/sail": "^1.0.1",
         "mockery/mockery": "^1.4.4",
         "nunomaduro/collision": "^6.1",
-        "phpunit/phpunit": "^9.5.10",
+        "phpunit/phpunit": "^9.6",
         "spatie/laravel-ignition": "^1.0"
     },
     "autoload": {
